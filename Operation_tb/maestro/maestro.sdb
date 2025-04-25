@@ -15,7 +15,7 @@
 						<value>Operation_tb</value>
 					</option>
 					<option>lib
-						<value>Final_project</value>
+						<value>alu</value>
 					</option>
 					<option>path
 						<value>$AXL_SETUPDB_DIR</value>

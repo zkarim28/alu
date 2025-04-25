@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      adl94
+HostName                       ph314-18.ece.cornell.edu
+ProcessIdentifier              3778
+ProcessCreationTime_UTC        1745598057
+ProcessCreationTime_Readable   Fri Apr 25 12:20:57 2025 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/adl94/ece4740/alu/Shifter_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Apr 25 13:21:43 2025 EDT
