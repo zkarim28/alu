@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Feb 15 19:22:28 2025 
+Best design point: 1
+Design specs: 
+	ECE4740_S25_Stdcell_testbench_1	corner	Nominal - 
+Design parameters: 
+	CONFIG/ECE4740_to_share_lab1/xnor_asm367		av_extracted
+
+Interactive.1
+Number of points completed: 2
+Number of simulation errors: 0
+Interactive.1 completed. 
+Current time: Sat Feb 15 19:23:00 2025 
