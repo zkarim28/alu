@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Mon Apr 28 14:42:28 2025 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/adl94/ece4740/alu/Bitwise_tb/schematic/sch.oa.cdslck
-TimeEditLocked                 Mon Apr 28 15:03:58 2025 EDT
+FilePathUsedToEditLock         /home/adl94/ece4740/alu/4bit_OR/symbol/symbol.oa.cdslck
+TimeEditLocked                 Mon Apr 28 15:27:10 2025 EDT
