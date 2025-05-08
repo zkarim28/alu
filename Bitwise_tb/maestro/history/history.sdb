@@ -3,8 +3,8 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Apr 28 16:26:27 2025</timestamp>
-			<uuid>{3dfe0c2a-8723-449c-8750-9bcf1e5fda26}</uuid>
+			<timestamp>May 8 17:16:06 2025</timestamp>
+			<uuid>{958c8054-ef33-4343-a157-bf871245d3d1}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/home/adl94/ece4740/alu/Bitwise_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
