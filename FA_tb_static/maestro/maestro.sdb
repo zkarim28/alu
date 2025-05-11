@@ -12,10 +12,10 @@
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
-						<value>FA_tb</value>
+						<value>FA_tb_static</value>
 					</option>
 					<option>lib
-						<value>ECE4740_fast_full_adder_git</value>
+						<value>alu</value>
 					</option>
 					<option>path
 						<value>$AXL_SETUPDB_DIR</value>
@@ -24,7 +24,7 @@
 						<value>spectre</value>
 					</option>
 					<option>view
-						<value>schematic</value>
+						<value>config</value>
 					</option>
 					<option>state
 						<value>active</value>

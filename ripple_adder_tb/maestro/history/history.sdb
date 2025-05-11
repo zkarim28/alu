@@ -3,16 +3,16 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>May 11 17:03:02 2025</timestamp>
-			<uuid>{1c968bcf-f9d4-4bce-ada2-44753b182d8d}</uuid>
+			<timestamp>May 11 18:10:58 2025</timestamp>
+			<uuid>{1eb82bf9-2293-46f9-addc-a89273376893}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
-			<resultsname>/home/vp278/ece4740/alu/ECE4740_fast_full_adder/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<resultsname>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
-			<runlog>/home/vp278/ece4740/alu/ECE4740_fast_full_adder/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlog>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
 			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
-			<psfdir>/home/vp278/simulation/ECE4740_fast_full_adder_git/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
-			<simdir>$AXL_PROJECT_DIR/ECE4740_fast_full_adder_git/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+			<psfdir>/home/asm367/simulation/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 		</historyentry>
 	</history>
 </setupdb>
