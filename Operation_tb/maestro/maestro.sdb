@@ -6,32 +6,6 @@
 			<corner enabled="1">_default</corner>
 		</corners>
 		<sharedvarinfo></sharedvarinfo>
-		<overwritehistory>0</overwritehistory>
-		<tests>
-			<test>ECE4740_S25_Stdcell_testbench_1
-				<tool>ADE</tool>
-				<tooloptions>
-					<option>cell
-						<value>Operation_tb</value>
-					</option>
-					<option>lib
-						<value>alu</value>
-					</option>
-					<option>path
-						<value>$AXL_SETUPDB_DIR</value>
-					</option>
-					<option>sim
-						<value>spectre</value>
-					</option>
-					<option>view
-						<value>schematic</value>
-					</option>
-					<option>state
-						<value>active</value>
-					</option>
-				</tooloptions>
-			</test>
-		</tests>
 		<extensions>
 			<extension>Parasitics
 				<callback>_parSetupDBExtensionCB</callback>
@@ -40,12 +14,39 @@
 			</extension>
 		</extensions>
 		<currentmode>Single Run, Sweeps and Corners</currentmode>
+		<overwritehistory>0</overwritehistory>
+		<tests>
+			<test enabled="1">alu_Operation_tb_1
+				<tool>ADE</tool>
+				<tooloptions>
+					<option>cell
+						<value>Operation_tb</value>
+					</option>
+					<option>lib
+						<value>alu</value>
+					</option>
+					<option>sim
+						<value>spectre</value>
+					</option>
+					<option>view
+						<value>schematic</value>
+					</option>
+					<option>path
+						<value>$AXL_SETUPDB_DIR</value>
+					</option>
+					<option>state
+						<value>active</value>
+					</option>
+				</tooloptions>
+			</test>
+		</tests>
+		<disabledtests></disabledtests>
 		<checksasserts netlist="0">
-			<test netlist="0" netlistscope="all">ECE4740_S25_Stdcell_testbench_1</test>
+			<test netlist="0" netlistscope="all">alu_Operation_tb_1</test>
 		</checksasserts>
 		<plottingoptions>
 			<plottingoption>waveformtemplate
-				<value></value>
+				<value>(None)</value>
 			</plottingoption>
 			<plottingoption>plottingmode
 				<value>Replace</value>
@@ -57,7 +58,7 @@
 				<value>no</value>
 			</plottingoption>
 			<plottingoption>useMaestroPlottingTemplate
-				<value>no</value>
+				<value>yes</value>
 			</plottingoption>
 			<plottingoption>allplottingtemplates
 				<value></value>

@@ -1,6 +1,6 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Thu May  8 17:16:07 2025 
+Current time: Sun May 11 22:52:04 2025 
 Best design point: 1
 Design specs: 
 	ECE4740_S25_Stdcell_testbench_1	corner	Nominal - 
@@ -10,4 +10,4 @@ ExplorerRun.0
 Number of points completed: 1
 Number of simulation errors: 0
 ExplorerRun.0 completed. 
-Current time: Thu May  8 17:16:14 2025 
+Current time: Sun May 11 22:52:12 2025 

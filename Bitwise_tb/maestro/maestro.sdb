@@ -30,6 +30,14 @@
 						<value>active</value>
 					</option>
 				</tooloptions>
+				<vars>
+					<var>tr
+						<value>10p</value>
+					</var>
+					<var>vdd
+						<value>1</value>
+					</var>
+				</vars>
 			</test>
 		</tests>
 		<extensions>
@@ -45,7 +53,7 @@
 		</checksasserts>
 		<plottingoptions>
 			<plottingoption>waveformtemplate
-				<value></value>
+				<value>(None)</value>
 			</plottingoption>
 			<plottingoption>plottingmode
 				<value>Replace</value>
@@ -57,7 +65,7 @@
 				<value>no</value>
 			</plottingoption>
 			<plottingoption>useMaestroPlottingTemplate
-				<value>no</value>
+				<value>yes</value>
 			</plottingoption>
 			<plottingoption>allplottingtemplates
 				<value></value>
