@@ -12,7 +12,7 @@
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
-						<value>ripple_adder_tb</value>
+						<value>ripple_adder_tb_bk</value>
 					</option>
 					<option>lib
 						<value>alu</value>
