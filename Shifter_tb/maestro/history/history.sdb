@@ -3,15 +3,15 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>May 11 20:08:31 2025</timestamp>
-			<uuid>{213faee8-d59b-455e-b2ff-932cf01bb800}</uuid>
+			<timestamp>May 11 23:13:32 2025</timestamp>
+			<uuid>{b951668a-8048-49f3-863c-f66f0251c71d}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
-			<resultsname>/home/zk67/ece4740/alu/Shifter_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<resultsname>/home/cca54/ece4740/alu/Shifter_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
-			<runlog>/home/zk67/ece4740/alu/Shifter_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlog>/home/cca54/ece4740/alu/Shifter_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
 			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
-			<psfdir>/home/zk67/simulation/alu/Shifter_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<psfdir>/home/cca54/simulation/alu/Shifter_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
 			<simdir>$AXL_PROJECT_DIR/alu/Shifter_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 		</historyentry>
 	</history>
