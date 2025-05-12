@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<statedb ICVersion="IC23.1-64b.ISR7.27" modifiedTime="05/12/2025 03:37:48" version="5">active
+<statedb ICVersion="IC23.1-64b.ISR7.27" modifiedTime="05/12/2025 04:24:01" version="5">active
 	<Test Name="alu_mul_tb_1">
 		<component Name="adeInfo" Type="skillTable">adeinfo
 			<field Name="descriptiontext" Type="string">"None"</field>
@@ -373,7 +373,7 @@
 				<field Name="stopViewList" Type="list">("spectre")</field>
 				<field Name="emirEnable_static" Type="list">nil</field>
 				<field Name="licQueueSleep" Type="string">""</field>
-				<field Name="stimulusFile" Type="list">("/home/ngp37/ece4740/alu/mul_tb/mult_input_vectors.scs")</field>
+				<field Name="stimulusFile" Type="list">("/home/ngp37/ece4740/alu/mul_tb/mult_4bit_A7_B_sweep.scs")</field>
 				<field Name="paramRangeCheckFile" Type="string">""</field>
 				<field Name="case_sensitive" Type="string">"false"</field>
 				<field Name="poloNameMapDBDir" Type="string">""</field>
@@ -1157,7 +1157,7 @@
 			<field Name="dspfFile" Type="list">nil</field>
 			<field Name="allVectorFiles" Type="list">nil</field>
 			<field Name="VcdInfoFile" Type="string">""</field>
-			<field Name="allStimulusFiles" Type="list">((t "/home/ngp37/ece4740/alu/mul_tb/mult_input_vectors.scs"))</field>
+			<field Name="allStimulusFiles" Type="list">((nil "/home/ngp37/ece4740/alu/mul_tb/mult_input_vectors.scs") (t "/home/ngp37/ece4740/alu/mul_tb/mult_4bit_A7_B_sweep.scs"))</field>
 			<field Name="includePath" Type="string">""</field>
 			<field Name="pspiceFile" Type="list">nil</field>
 			<field Name="spefFile" Type="list">nil</field>
@@ -1168,7 +1168,7 @@
 			<field Name="definitionFiles" Type="list">nil</field>
 			<field Name="allDspfFiles" Type="list">nil</field>
 			<field Name="VectorFile" Type="list">nil</field>
-			<field Name="stimulusFile" Type="list">("/home/ngp37/ece4740/alu/mul_tb/mult_input_vectors.scs")</field>
+			<field Name="stimulusFile" Type="list">("/home/ngp37/ece4740/alu/mul_tb/mult_4bit_A7_B_sweep.scs")</field>
 			<field Name="allIncludedPaths" Type="list">nil</field>
 			<field Name="allSpefFiles" Type="list">nil</field>
 			<field Name="hlcheck" Type="string">"off"</field>
