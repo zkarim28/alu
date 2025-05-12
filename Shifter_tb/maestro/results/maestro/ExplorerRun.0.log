@@ -1,6 +1,6 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Thu May  8 18:04:31 2025 
+Current time: Sun May 11 20:08:31 2025 
 Best design point: 1
 Design specs: 
 	alu_Shifter_tb_1	corner	Nominal - 
@@ -10,4 +10,4 @@ ExplorerRun.0
 Number of points completed: 1
 Number of simulation errors: 0
 ExplorerRun.0 completed. 
-Current time: Thu May  8 18:04:42 2025 
+Current time: Sun May 11 20:08:45 2025 

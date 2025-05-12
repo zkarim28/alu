@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      zk67
+HostName                       en-ec-rhel-ph314-09.coecis.cornell.edu
+ProcessIdentifier              14072
+ProcessCreationTime_UTC        1746985959
+ProcessCreationTime_Readable   Sun May 11 13:52:39 2025 EDT
+AppIdentifier                  /opt/cadence/IC231.007/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/zk67/ece4740/alu/Shifter_tb/maestro/maestro.sdb
+TimeEditLocked                 Sun May 11 20:08:22 2025 EDT
