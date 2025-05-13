@@ -16,11 +16,11 @@
 		<currentmode>Single Run, Sweeps and Corners</currentmode>
 		<overwritehistory>0</overwritehistory>
 		<tests>
-			<test enabled="1">alu_mul_tb_1
+			<test enabled="1">alu_top_level_TB_1
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
-						<value>mul_tb</value>
+						<value>top_level_TB</value>
 					</option>
 					<option>lib
 						<value>alu</value>
@@ -39,6 +39,9 @@
 					</option>
 				</tooloptions>
 				<vars>
+					<var>tr
+						<value>20p</value>
+					</var>
 					<var>vdd
 						<value>1</value>
 					</var>
@@ -47,7 +50,7 @@
 		</tests>
 		<disabledtests></disabledtests>
 		<checksasserts netlist="0">
-			<test netlist="0" netlistscope="all">alu_mul_tb_1</test>
+			<test netlist="0" netlistscope="all">alu_top_level_TB_1</test>
 		</checksasserts>
 		<plottingoptions>
 			<plottingoption>waveformtemplate
