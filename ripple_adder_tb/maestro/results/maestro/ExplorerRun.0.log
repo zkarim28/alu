@@ -1,6 +1,6 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Thu May 15 16:10:03 2025 
+Current time: Thu May 15 17:17:00 2025 
 Best design point: 1
 Design specs: 
 	ECE4740_fast_full_adder_git_CS_adder_tb_1	corner	Nominal - 
@@ -10,4 +10,4 @@ ExplorerRun.0
 Number of points completed: 1
 Number of simulation errors: 0
 ExplorerRun.0 completed. 
-Current time: Thu May 15 16:10:15 2025 
+Current time: Thu May 15 17:17:09 2025 

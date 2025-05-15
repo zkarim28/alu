@@ -12,7 +12,7 @@
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
-						<value>ripple_adder_tb_bk</value>
+						<value>ripple_adder_tb</value>
 					</option>
 					<option>lib
 						<value>alu</value>
@@ -30,7 +30,11 @@
 						<value>active</value>
 					</option>
 				</tooloptions>
-				<vars></vars>
+				<vars>
+					<var>vdd
+						<value>1</value>
+					</var>
+				</vars>
 				<origoptions></origoptions>
 			</test>
 		</tests>
