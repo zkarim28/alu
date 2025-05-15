@@ -1,0 +1,18 @@
+simulator lang=spice
+
+* A and B inputs
+
+Va3 A3 0 PWL(0n 1 0.001n 1 10n 1 10.001n 0 20n 0 20.001n 1 30n 1)
+Va2 A2 0 PWL(0n 0 0.001n 0 10n 0 10.001n 0 20n 0 20.001n 0 30n 0)
+Va1 A1 0 PWL(0n 1 0.001n 1 10n 1 10.001n 0 20n 0 20.001n 0 30n 0)
+Va0 A0 0 PWL(0n 0 0.001n 0 10n 0 10.001n 0 20n 0 20.001n 0 30n 0)
+Vb3 B3 0 PWL(0n 0 0.001n 0 10n 0 10.001n 1 20n 1 20.001n 0 30n 0)
+Vb2 B2 0 PWL(0n 1 0.001n 1 10n 1 10.001n 1 20n 1 20.001n 0 30n 0)
+Vb1 B1 0 PWL(0n 0 0.001n 0 10n 0 10.001n 0 20n 0 20.001n 1 30n 1)
+Vb0 B0 0 PWL(0n 1 0.001n 1 10n 1 10.001n 0 20n 0 20.001n 0 30n 0)
+
+
+Vop3 OP3 0 PWL(0n 0 0.001n 0)
+Vop2 OP2 0 PWL(0n 0 0.001n 0)
+Vop1 OP1 0 PWL(0n 1 0.001n 0)
+Vop0 OP0 0 PWL(0n 1 0.001n 0)
