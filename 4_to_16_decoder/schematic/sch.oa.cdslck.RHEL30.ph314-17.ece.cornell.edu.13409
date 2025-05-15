@@ -13,4 +13,4 @@ AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /home/adl94/ece4740/alu/4_to_16_decoder/schematic/sch.oa.cdslck
-TimeEditLocked                 Thu May 15 14:39:53 2025 EDT
+TimeEditLocked                 Thu May 15 15:16:12 2025 EDT
