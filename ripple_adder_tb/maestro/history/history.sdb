@@ -14,5 +14,89 @@
 			<psfdir>/home/asm367/simulation/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
 			<simdir>$AXL_PROJECT_DIR/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.0
+			<timestamp>May 17 05:34:25 2025</timestamp>
+			<uuid>{450a3ee9-e75d-4fa9-b546-d40fb37abe05}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/asm367/simulation/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.1
+			<timestamp>May 17 05:36:11 2025</timestamp>
+			<uuid>{94e4d527-bf7e-4082-9860-b4dd336ea0df}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/asm367/simulation/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.2
+			<timestamp>May 17 05:39:30 2025</timestamp>
+			<uuid>{186e05c0-1656-44a9-9bfb-1573aff6fddb}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/asm367/simulation/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.3
+			<timestamp>May 17 05:40:05 2025</timestamp>
+			<uuid>{4787b452-6c63-4b80-b89e-435f1b93e929}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/asm367/simulation/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.4
+			<timestamp>May 17 05:43:58 2025</timestamp>
+			<uuid>{72ad7455-6c35-4e44-bf93-6c44add282a0}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/asm367/simulation/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.5
+			<timestamp>May 17 05:44:48 2025</timestamp>
+			<uuid>{76ea360a-24ba-4dae-9047-edc8892a0c95}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/asm367/simulation/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.6
+			<timestamp>May 17 05:48:35 2025</timestamp>
+			<uuid>{d8b5a090-6863-48df-ba58-749abe8c8bc1}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/asm367/ece4740/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/asm367/simulation/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/alu/ripple_adder_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
 	</history>
 </setupdb>

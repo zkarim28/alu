@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      asm367
 HostName                       ph314-15.ece.cornell.edu
-ProcessIdentifier              41533
-ProcessCreationTime_UTC        1747446171
-ProcessCreationTime_Readable   Fri May 16 21:42:51 2025 EDT
+ProcessIdentifier              135109
+ProcessCreationTime_UTC        1747474666
+ProcessCreationTime_Readable   Sat May 17 05:37:46 2025 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/asm367/ece4740/alu/ripple_carry/schematic/sch.oa.cdslck
-TimeEditLocked                 Sat May 17 04:57:33 2025 EDT
+FilePathUsedToEditLock         /home/asm367/ece4740/alu/ripple_carry/layout/layout.oa.cdslck
+TimeEditLocked                 Sat May 17 05:51:08 2025 EDT

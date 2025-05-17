@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      asm367
+HostName                       en-ec-rhel-ph314-15.coecis.cornell.edu
+ProcessIdentifier              135109
+ProcessCreationTime_UTC        1747474663
+ProcessCreationTime_Readable   Sat May 17 05:37:43 2025 EDT
+AppIdentifier                  /opt/cadence/IC231.007/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/asm367/ece4740/alu/ripple_carry/physConfig/physExpand.cfg
+TimeEditLocked                 Sat May 17 05:51:09 2025 EDT

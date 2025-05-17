@@ -87,6 +87,9 @@
 			<reusesaverunhist>0</reusesaverunhist>
 			<copyreferenceresults>1</copyreferenceresults>
 		</incrementalsimsetup>
+		<incrementalsimulationoptions>
+			<incrementalSimulation>0</incrementalSimulation>
+		</incrementalsimulationoptions>
 	</active>
 	<history>History
 	</history>
