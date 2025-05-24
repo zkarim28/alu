@@ -1,5 +1,5 @@
 # alu
-ECE 4740 final project
+Digital VLSI final project
 
 <img width="1519" alt="IMG_6541" src="https://github.com/user-attachments/assets/f1f12e5f-0bbf-4068-85a2-bebfe9a2c45c" />
 
